@@ -1,7 +1,7 @@
 html { font-family: sans-serif; background: #eee; padding: 1rem; }
-p.copyright { position: absolute;font-weight: bold;  color: #fff; width: 100%;line-height: 40px; bottom:0;text-align: center;  font-size: 13px;}  
-body{ max-width: 960px; font:15px/1.5 Arial, Helvetica,sans-serif; 	padding: 0px; 	margin: 0 auto;
-	background-image: url("paper.jpg");  background-color: #ff6699; }
+p.copyright { position: absolute;font-weight: bold;  color: #fff; width: 100%;line-height: 40px; bottom:0;text-align: center;  font-size: 23px;}  
+body{ max-width: 1560px; font:15px/1.5 Arial, Helvetica,sans-serif; 	padding: 0px; 	margin: 0 auto;
+	background-image: url("paper.jpg");  background-color: #9ACD32; }
 
 .container{ width:100%; margin: auto; overflow: hidden;}
 
